@@ -4,12 +4,9 @@ A data science portfolio project predicting credit risk for 1,000 loan
 applicants using Machine Learning — built to demonstrate skills in 
 Python, Scikit-learn, statistical analysis and feature engineering.
 
----
 
-## 👩‍💻 Built By
-**Priyanka Makineni**  
-Aspiring Data Analyst  
-GitHub: github.com/Priyanka99M
+
+
 
 ---
 
